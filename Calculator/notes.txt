@@ -1,0 +1,15 @@
+First iteration:
+    - user input for calc_type and numbers
+    - convert numbers to float
+    - if statements regarding user input
+    - perform calculations in if statements
+
+Second iteration:
+    - add while loop for endless loop
+    - replace if statements with match
+
+Third iteration:
+    - add checks for user input and display "error" messages
+
+Fourth iteration:
+    - add while loops for the checks that program does not start from beginning
